@@ -15,3 +15,4 @@
 2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashMap)
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/medium)
