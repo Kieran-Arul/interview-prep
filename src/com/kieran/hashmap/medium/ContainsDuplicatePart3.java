@@ -62,6 +62,7 @@ public class ContainsDuplicatePart3 {
     }
 
     // Model answer: still trying to understand the logic of how it works
+    // Credit to viratkushwaha
     private static boolean containsNearbyAlmostDuplicateModelAnswer(int[] nums, int k, int t) {
 
         if (nums.length == 0) {
