@@ -1,10 +1,11 @@
 ## Project Overview
 
-- The purpose of this repo is to help others also prepare for interviews in a more organised way
+- The purpose of this repo is to help others prepare for interviews in an organised way
 - I will commit a solution and explanation to every problem I solve and comfortably understand
 - I aim to solve about 1-2 questions a day
 - Solutions will be stored by pattern and difficulty
 - Problems will mostly be from LeetCode, Grokking the Coding Interview and HackerRank
+- If you notice any errors in my code, or perhaps optimisations I could make, please let me know!
 
 ## Patterns
 
