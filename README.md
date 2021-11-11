@@ -8,10 +8,10 @@
 
 ## Covered Patterns
 
-1\. [Sliding Window](https://www.educative.io/courses/grokking-the-coding-interview)
+1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/slidingWindow)
 
-  - [Easy](https://www.educative.io/courses/grokking-the-coding-interview)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/slidingwindow/easy)
 
-2\. [Hash Map](https://www.educative.io/courses/grokking-the-coding-interview)
+2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashMap)
 
-  - [Easy](https://www.educative.io/courses/grokking-the-coding-interview)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/easy)
