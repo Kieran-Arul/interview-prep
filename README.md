@@ -18,7 +18,7 @@
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/medium)
 
-3\. [Link List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
+3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/medium)
