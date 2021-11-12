@@ -1,4 +1,4 @@
-package com.kieran.hashmap.easy;
+package com.patterns.hashmap.easy.java;
 
 // Given an array of integers nums, return the number of good pairs.
 //

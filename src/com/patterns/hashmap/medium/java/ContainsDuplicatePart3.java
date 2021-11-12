@@ -1,4 +1,4 @@
-package com.kieran.hashmap.medium;
+package com.patterns.hashmap.medium.java;
 
 import java.util.HashMap;
 import java.util.Map;

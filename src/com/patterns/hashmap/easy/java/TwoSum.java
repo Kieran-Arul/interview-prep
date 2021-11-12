@@ -1,4 +1,4 @@
-package com.kieran.hashmap.easy;
+package com.patterns.hashmap.easy.java;
 
 import java.util.Arrays;
 import java.util.HashMap;
