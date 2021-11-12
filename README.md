@@ -18,15 +18,15 @@
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/medium)
 
-3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
+3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/medium)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList/easy/python)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList/medium/python)
  
-4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming)
+4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming)
   
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/medium)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/medium)
 
 ## For Contributors
 
