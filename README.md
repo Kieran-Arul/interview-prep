@@ -5,25 +5,51 @@
 - I aim to solve about 1-2 questions a day
 - Solutions will be stored by pattern and difficulty
 - Problems will mostly be from LeetCode, Grokking the Coding Interview and HackerRank
-- If you notice any errors in my code, or perhaps optimisations I could make, please let me know!
+- If you notice any errors in our code, or perhaps optimisations we could make, please let us know
 
 ## Patterns
 
-1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/slidingWindow)
+1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingWindow)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/slidingwindow/easy)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingWindow/easy)
 
-2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashMap)
+2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashmap/medium)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/medium)
 
-3\. [Link List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
+3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList/medium)
  
 4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming)
-
+  
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/medium)
+
+## For Contributors
+
+1\. Clone the repository (if you are a new contributor)
+
+    git clone https://github.com/Kieran-Arul/interview-prep
+
+2\. If you are adding a new question pattern, do so in the 'patterns' directory at /src/com/patterns. Then update the README appropriately.
+
+3\. If you are adding a new difficulty to one of the patterns, remember to update the README appropriately.
+
+4\. If you are adding a new question, ensure it is added to the correct pattern, difficulty and language directory.
+
+5\. When adding a new question, ensure the filename is the name of the question
+
+6\. At the top of each question file, include:
+
+  - A brief of what the question/problem is
+  - Where this question came from (e.g. LeetCode question number)
+  - Example input, expected output of the example input (similar to how leetcode does it)
+  - Short explanation why that is the output (similar to how leetcode does it)
+
+7\. If you add a new question file, also add a markdown file of the same name. Use this file to explain the logic of your solution such as in terms of how it utilises the pattern.
+
+
+
