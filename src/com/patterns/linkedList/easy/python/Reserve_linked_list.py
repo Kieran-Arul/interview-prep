@@ -1,4 +1,4 @@
-# leetcode Q206
+# LeetCode Q206
 # Input: head = [1,2,3,4,5]
 # Output: [5,4,3,2,1]
 
@@ -8,10 +8,12 @@ class ListNode:
         self.val = val
         self.next = next
 
+
 class Solution:
-    def reverseList(self, head):
+
+    def reverse_list(self, head):
         # use two pointers.
-        prev,curr = None,head
+        prev, curr = None, head
         # until the end of the list.
         while curr:
             # next list
@@ -22,5 +24,4 @@ class Solution:
             prev = curr
             # update new value
             curr = nxt
-        # why return prev? it should be a node?
         return prev
