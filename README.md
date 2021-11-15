@@ -28,10 +28,10 @@
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/medium)
 
-5\. [Back Track] (https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/BackTrack)
+5\. [Back Track](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/BackTrack)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/BackTrack/medium)
 
-6\. [Two Pointers] (https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers)
+6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers)
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/easy)
 
 ## For Contributors
