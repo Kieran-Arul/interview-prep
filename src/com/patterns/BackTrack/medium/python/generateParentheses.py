@@ -1,4 +1,4 @@
-
+# leetcode Q22, very classic question
 # Input: n = 3
 # Output: ["((()))","(()())","(())()","()(())","()()()"]
 

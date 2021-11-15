@@ -1,4 +1,4 @@
-
+# leetcode Q139
 # Input: s = "applepenapple", wordDict = ["apple","pen"]
 # Output: true
 # Explanation: Return true because "applepenapple" can be segmented as "apple pen apple".
