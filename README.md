@@ -18,21 +18,24 @@
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/medium)
 
-3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList)
+3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList/easy/python)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkList/medium/python)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList/medium)
  
 4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming)
   
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/medium)
 
-5\. [Back Track](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/BackTrack)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/BackTrack/medium)
+5\. [Backtrack](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtrack)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtrack/medium)
 
 6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers)
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/easy)
+
+7\. [Arrays](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays/easy)
 
 ## For Contributors
 
@@ -56,6 +59,3 @@
   - Short explanation why that is the output (similar to how leetcode does it)
 
 7\. If you add a new question file, also add a markdown file of the same name. Use this file to explain the logic of your solution such as in terms of how it utilises the pattern.
-
-
-
