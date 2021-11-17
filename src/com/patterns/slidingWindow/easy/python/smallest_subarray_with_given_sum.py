@@ -1,29 +1,37 @@
 """
+From Grokking the Coding Interview
+
 Problem Statement 
 Given an array of positive numbers and a positive number ‘S’, find the length of the smallest contiguous subarray whose 
 sum is greater than or equal to ‘S’. Return 0, if no such subarray exists.
+
 Example 1:
 Input: [2, 1, 5, 2, 3, 2], S=7 
 Output: 2
 Explanation: The smallest subarray with a sum great than or equal to '7' is [5, 2].
+
 Example 2:
 Input: [2, 1, 5, 2, 8], S=7 
 Output: 1
 Explanation: The smallest subarray with a sum greater than or equal to '7' is [8].
+
 Example 3:
 Input: [3, 4, 1, 1, 6], S=8 
 Output: 3
 Explanation: Smallest sub-arrays with a sum greater than or equal to '8' are [3, 4, 1] or [1, 1, 6].
 """
 
-import math
+# SOLUTION BREAKDOWN:
 
-
-# Idea is to expand the window continuously until the sum of whatever is in the window hits or surpasses the target
-# Once target is hit, idea is to see how much we can shrink the window until we fall below the target
+# Idea is to expand the window continuously until the window sum hits or surpasses the target
+# Once the target is hit, idea is to see how much we can shrink the window until we fall below the target
 # We shrink the window by removing the left-most element in the window
 # Repeat this until we have gone over the whole array, then we check whether what the size of the smallest window we
 # could attain before falling below the target
+
+import math
+
+
 def smallest_subarray_with_given_sum(arr, s):
 
     window_sum = 0

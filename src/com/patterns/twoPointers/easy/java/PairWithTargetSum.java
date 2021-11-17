@@ -16,6 +16,28 @@ package com.patterns.twoPointers.easy.java;
 //        Output: [0, 2]
 //        Explanation: The numbers at index 0 and 2 add up to 11
 
+/*
+
+SOLUTION BREAKDOWN:
+
+- Fundamentally we want to go through the sorted array and pair off numbers, checking if their sum == target sum
+
+- We initialise two pointers, one at the start of the array, the other at the end
+
+- We have a while condition to ensure the pointers do not cross because then we would be repeating pairs
+
+- Then with every pair, we check if they meet the target sum
+
+- If the target is met, we return the two pairs
+
+- If we are under the target sum, then we know we need to increase the current sum, thus we increment the left pointer
+because we know the array is sorted and doing so will give us an equal/greater number
+
+- If we are over the target sum, then we know we need to decrease the current sum, thus we decrement the left pointer
+because we know the array is sorted and doing so will give us an equal/smaller number
+
+*/
+
 import java.util.Arrays;
 
 public class PairWithTargetSum {

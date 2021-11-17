@@ -1,8 +1,8 @@
 ## Project Overview
 
-- The purpose of this repo is to help others prepare for interviews in an organised way
-- I will commit a solution and explanation to every problem I solve and comfortably understand
-- I aim to solve about 1-2 questions a day
+- The purpose of this repo is to prepare for interviews in an organised way
+- We will commit a solution and explanation to every problem we solve and comfortably understand
+- We aim to solve about 1-2 questions a day
 - Solutions will be stored by pattern and difficulty
 - Problems will mostly be from LeetCode, Grokking the Coding Interview and HackerRank
 - If you notice any errors in our code, or perhaps optimisations we could make, please let us know
@@ -33,6 +33,7 @@
 
 6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers)
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/medium)
 
 7\. [Arrays](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays)
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays/easy)
@@ -55,7 +56,7 @@
 
   - A brief of what the question/problem is
   - Where this question came from (e.g. LeetCode question number)
-  - Example input, expected output of the example input (similar to how leetcode does it)
-  - Short explanation why that is the output (similar to how leetcode does it)
+  - Example input, expected output of the example input (similar to how LeetCode does it)
+  - Short explanation why that is the output (if it is not obvious)
 
-7\. If you add a new question file, also add a markdown file of the same name. Use this file to explain the logic of your solution such as in terms of how it utilises the pattern.
+7\. If you add a new question file, add some comments explaining the logic of your solution. This should be done in either a single block or within the code depending on what is more appropriate.
