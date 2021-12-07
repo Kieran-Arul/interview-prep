@@ -1,4 +1,9 @@
 # Leetcode Q509
+# Given an input n, determine the nth term of the fibonacci sequence
+# The sequence goes 0, 1, 1,...
+# 0 will be the 0th term
+
+# Example:
 # Input: n = 2
 # Output: 1
 # Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1.

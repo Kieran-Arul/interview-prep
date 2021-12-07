@@ -1,33 +1,32 @@
 # --------------------------------- TOP DOWN DP ---------------------------------
 
-def rod_cutting_top_down_dp(price, length, max_profits_map, cuts_table):
+def rod_cutting_top_down_dp(price, length, max_profits_table, cuts_table):
 
     if length == 0:
 
         return 0, cuts_table
 
-    for i in range(1, length + 1):
+    if max_profits_table[length] == -1:
 
-        price_if_cut_at_length_i = price[i] + rod_cutting_top_down_dp(price, length - i, max_profits_map, cuts_table)[0]
+        for i in range(1, length + 1):
 
-        if price_if_cut_at_length_i > max_profits_map[length]:
+            price_if_cut_at_length_i = price[i] + rod_cutting_top_down_dp(price, length - i,
+                                                                          max_profits_table, cuts_table)[0]
 
-            max_profits_map[length] = price_if_cut_at_length_i
-            cuts_table[length] = i
+            if price_if_cut_at_length_i > max_profits_table[length]:
 
-    return max_profits_map[length], cuts_table
+                max_profits_table[length] = price_if_cut_at_length_i
+                cuts_table[length] = i
+
+    return max_profits_table[length], cuts_table
 
 
 def top_down_driver_function(price, length):
 
-    max_profits_map = {}
+    max_profits_table = [-1 for _ in range(length + 1)]
     cuts_table = [0 for _ in range(length + 1)]
 
-    for i in range(length + 1):
-
-        max_profits_map[i] = -1
-
-    max_profit, cuts = rod_cutting_top_down_dp(price, length, max_profits_map, cuts_table)
+    max_profit, cuts = rod_cutting_top_down_dp(price, length, max_profits_table, cuts_table)
 
     n = length
     answer_table = []

@@ -1,4 +1,4 @@
-# leetcode Q70
+# Leetcode Q70
 # Input: n = 3
 # Output: 3
 # Explanation: There are three ways to climb to the top.
