@@ -9,31 +9,31 @@
 
 ## Patterns
 
-1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingWindow)
+1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingwindow)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingWindow/easy)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingwindow/easy)
 
 2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap)
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap/medium)
 
-3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList)
+3\. [Linked List](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedlist)
 
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedList/medium)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedlist/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/linkedlist/medium)
  
-4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming)
+4\. [Dynamic Programming](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicprogramming)
   
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicProgramming/medium)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicprogramming/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicprogramming/medium)
 
-5\. [Backtrack](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtrack)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtrack/medium)
+5\. [Backtracking](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtracking)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtracking/medium)
 
-6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers)
-  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/easy)
-  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twoPointers/medium)
+6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers)
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers/medium)
 
 7\. [Arrays](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays)
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays/easy)
