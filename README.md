@@ -12,6 +12,7 @@
 1\. [Sliding Window](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingwindow)
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingwindow/easy)
+  - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/slidingwindow/medium)
 
 2\. [Hash Map](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/hashmap)
 
@@ -29,13 +30,16 @@
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/dynamicprogramming/medium)
 
 5\. [Backtracking](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtracking)
+
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/backtracking/medium)
 
 6\. [Two Pointers](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers)
+
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers/easy)
   - [Medium](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/twopointers/medium)
 
 7\. [Arrays](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays)
+
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays/easy)
 
 ## For Contributors

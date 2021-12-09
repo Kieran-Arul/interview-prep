@@ -72,6 +72,7 @@ public class ThreeSum {
                 if (sum == 0) {
 
                     result.add(Arrays.asList(nums[i], nums[j], nums[k]));
+
                     j++;
                     k--;
 

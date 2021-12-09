@@ -24,4 +24,5 @@ class Solution:
             prev = curr
             # update new value
             curr = nxt
+
         return prev
