@@ -26,6 +26,8 @@ public class FindDisappearedNumbers {
 
         System.out.println(findDisappearedNumbers(test));
         System.out.println(findDisappearedNumbers(test2));
+        System.out.println(findDisappearedNumbersModelSolution(test));
+        System.out.println(findDisappearedNumbersModelSolution(test2));
 
     }
 
@@ -47,6 +49,27 @@ public class FindDisappearedNumbers {
         }
 
         return new ArrayList<>(disappearedNums);
+
+    }
+
+    private static List<Integer> findDisappearedNumbersModelSolution(int[] nums) {
+
+        HashSet<Integer> disappearedNums = new HashSet<>();
+        HashSet<Integer> cache = new HashSet<>();
+
+        int start = 1;
+
+        for (int num : nums) {
+
+            disappearedNums.add(num);
+            cache.add(start++);
+
+        }
+
+        // Asymmetric Difference (i.e. cache - disappearedNums)
+        cache.removeAll(disappearedNums);
+
+        return new ArrayList<>(cache);
 
     }
 
