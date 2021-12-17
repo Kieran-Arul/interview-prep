@@ -42,6 +42,10 @@
 
   - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/arrays/easy)
 
+8\. [Binary Search](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/binarysearch)
+
+  - [Easy](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/patterns/binarysearch/easy)
+
 ## For Contributors
 
 1\. Clone the repository (if you are a new contributor)
